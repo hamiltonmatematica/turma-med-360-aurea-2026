@@ -31,7 +31,7 @@ function App() {
                 2026
             </p>
             <p className="text-gray-400 font-brand font-light">
-                O melhor dos 2 mundos
+                Áurea: O melhor dos dois mundos
             </p>
             
             <div className="w-full h-px bg-white/10 my-12"></div>
