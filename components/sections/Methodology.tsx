@@ -6,7 +6,7 @@ const blocks = [
   {
     icon: <Clock className="w-8 h-8 text-aurea-orange" />,
     title: "Carga horária",
-    content: ["Trinta e duas aulas semanais combinando Enem (manhã ou tarde) e Unimontes (Noturno às segundas, quartas e sextas)."]
+    content: ["32 aulas semanais combinando Enem (manhã ou tarde), Unimontes (Noturno às segundas, quartas e sextas) e Ufvjm (Correção de questões)"]
   },
   {
     icon: <Activity className="w-8 h-8 text-aurea-orange" />,
@@ -17,8 +17,8 @@ const blocks = [
     icon: <BookOpen className="w-8 h-8 text-aurea-orange" />,
     title: "Materiais",
     content: [
-      "Coleção ENEM 2026 com cinco volumes",
-      "Coleção Unimontes 2026 com três volumes",
+      "Coleção ENEM 2026 com 5 volumes",
+      "Coleção Unimontes 2026 com 3 volumes",
       "Tudo gratuito e sem taxa de material"
     ]
   },
@@ -26,7 +26,7 @@ const blocks = [
     icon: <FileText className="w-8 h-8 text-aurea-orange" />,
     title: "Simulados",
     content: [
-      "Simulados completos e compactos dos dois processos",
+      "Simulados completos e compactos dos três processos",
       "Calendário exclusivo para MED 360",
       "Feedback e relatórios reais de desempenho"
     ]
@@ -53,6 +53,7 @@ const blocks = [
     icon: <RefreshCw className="w-8 h-8 text-aurea-orange" />,
     title: "Revisões",
     content: [
+      "Revisa Ufvjm gratuito",
       "Revisa Enem gratuito",
       "Revisa Unimontes gratuito"
     ]

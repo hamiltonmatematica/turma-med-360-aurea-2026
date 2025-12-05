@@ -59,7 +59,7 @@ export const Hero: React.FC = () => {
 
                 <h2 className="text-2xl md:text-3xl font-brand font-medium text-white/90 mb-12 max-w-2xl mx-auto leading-relaxed">
                     A turma exclusiva para quem quer <span className="font-bold text-aurea-orange bg-white/10 px-2 rounded-lg">Medicina</span>. 
-                    Preparação simultânea para Enem e Unimontes.
+                    Preparação simultânea para Enem, Unimontes e Ufvjm.
                 </h2>
 
                 <div className="flex flex-col sm:flex-row gap-5 justify-center">

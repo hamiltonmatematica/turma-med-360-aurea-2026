@@ -26,7 +26,6 @@ export const Reservation: React.FC = () => {
                 </p>
                 <ul className="text-gray-300 text-xl mb-10 space-y-1">
                   <li>30% de desconto até 31/12 para alunos novos</li>
-                  <li>50% de desconto até 31/12 para alunos Áurea</li>
                 </ul>
                 <Button 
                     href="https://delicategiantpanda-n8n.cloudfy.live/form/71f89cb2-cc61-41b7-a0a8-2459cc14e4ca" 

@@ -25,11 +25,11 @@ export const About: React.FC = () => {
                         O Conceito
                     </span>
                     <h3 className="text-5xl md:text-7xl font-display uppercase leading-none mb-6">
-                        Dupla <br/> Performance
+                        Trilpa <br/> Performance
                     </h3>
                     <div className="w-full h-px bg-white/20 mb-6"></div>
                     <p className="font-brand text-lg text-white/80 leading-relaxed">
-                        A única metodologia capaz de sincronizar o ritmo do Enem com a especificidade da Unimontes.
+                        A única metodologia capaz de sincronizar o ritmo do Enem com as especificidades da Unimontes e Ufvjm.
                     </p>
                 </div>
                 
@@ -52,10 +52,10 @@ export const About: React.FC = () => {
             
             <div className="space-y-6 text-lg md:text-xl text-gray-600 font-light leading-relaxed">
                 <p>
-                    <strong className="text-aurea-dark font-bold">A turma definitiva para Medicina.</strong> Preparação integrada para Enem e Unimontes desde fevereiro, com rotina intensa, organização sistemática e acompanhamento total.
+                    <strong className="text-aurea-dark font-bold">A turma definitiva para Medicina.</strong> Preparação integrada para Enem, Unimontes e Ufvjmdesde fevereiro, com rotina intensa, organização sistemática e acompanhamento total.
                 </p>
                 <p>
-                    É a única turma que trabalha os dois processos seletivos de forma <span className="text-aurea-orange font-bold underline decoration-2 underline-offset-4">planejada, inteligente e contínua</span>.
+                    É a única turma que trabalha os 3 processos seletivos de forma <span className="text-aurea-orange font-bold underline decoration-2 underline-offset-4">planejada, inteligente e contínua</span>.
                 </p>
             </div>
             
