@@ -57,10 +57,10 @@ export const Pricing: React.FC = () => {
 
               <div className="flex flex-col gap-4 mb-10">
                 <Button href="https://www.asaas.com/c/nxh0pvewff1x6g8j" variant="primary" className="w-full text-lg py-5 shadow-aurea-orange/30 shadow-xl">
-                  Quero à vista
+                  Quero à vista com 30% de desconto
                 </Button>
                 <Button href="https://www.asaas.com/c/xjy06obl90dt47hy" variant="outline" className="w-full text-lg py-5">
-                  Quero parcelado
+                  Quero parcelado com 30% de desconto
                 </Button>
               </div>
 
@@ -117,10 +117,10 @@ export const Pricing: React.FC = () => {
 
               <div className="flex flex-col gap-4 mb-10">
                 <Button href="https://www.asaas.com/c/mt81gmd61jx16u06" variant="primary" className="w-full text-lg py-5 shadow-aurea-orange/30 shadow-xl">
-                  Quero à vista
+                  Quero à vista com 30% de desconto
                 </Button>
                 <Button href="https://www.asaas.com/c/10si1qlmiqjn9ob4" variant="outline" className="w-full text-lg py-5">
-                  Quero parcelado
+                  Quero parcelado com 30% de desconto
                 </Button>
               </div>
 
