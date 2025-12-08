@@ -10,7 +10,7 @@ const benefits = [
   "Organização semanal de demandas",
   "Simulados completos (Enem, Unimontes e Ufvjm)",
   "30% de desconto até 31/12 (alunos novos)",
-  "I.A. Trio Perfeita",
+  "I.A. Trio Perfeito",
   "Mentorias exclusivas",
   "Sem taxa de material",
   "Alta performance",
