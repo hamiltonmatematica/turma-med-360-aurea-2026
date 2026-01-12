@@ -57,19 +57,19 @@ export const Pricing: React.FC = () => {
 
               <div className="flex flex-col gap-4 mb-10">
                 <Button href="https://www.asaas.com/c/nxh0pvewff1x6g8j" variant="primary" className="w-full text-lg py-5 shadow-aurea-orange/30 shadow-xl">
-                  Quero à vista com 30% de desconto
+                  Quero à vista com 22% de desconto
                 </Button>
                 <Button href="https://www.asaas.com/c/xjy06obl90dt47hy" variant="outline" className="w-full text-lg py-5">
-                  Quero parcelado com 30% de desconto
+                  Quero parcelado com 22% de desconto
                 </Button>
               </div>
 
               <div className="bg-aurea-blue/5 rounded-2xl p-6 border border-aurea-blue/10">
                 <p className="font-display text-aurea-orange text-base uppercase tracking-wide mb-3">
-                  Condições Especiais até 31/12
+                  Condições Especiais até 20/01
                 </p>
                 <div className="space-y-2 text-gray-700 text-sm md:text-base">
-                  <p>Novos alunos: <strong className="text-aurea-blue">30% de desconto</strong></p>
+                  <p>Novos alunos: <strong className="text-aurea-blue">22% de desconto</strong></p>
                 </div>
               </div>
             </div>
@@ -117,19 +117,19 @@ export const Pricing: React.FC = () => {
 
               <div className="flex flex-col gap-4 mb-10">
                 <Button href="https://www.asaas.com/c/mt81gmd61jx16u06" variant="primary" className="w-full text-lg py-5 shadow-aurea-orange/30 shadow-xl">
-                  Quero à vista com 30% de desconto
+                  Quero à vista com 22% de desconto
                 </Button>
                 <Button href="https://www.asaas.com/c/10si1qlmiqjn9ob4" variant="outline" className="w-full text-lg py-5">
-                  Quero parcelado com 30% de desconto
+                  Quero parcelado com 22% de desconto
                 </Button>
               </div>
 
               <div className="bg-aurea-blue/5 rounded-2xl p-6 border border-aurea-blue/10">
                 <p className="font-display text-aurea-orange text-base uppercase tracking-wide mb-3">
-                  Condições Especiais até 31/12
+                  Condições Especiais até 20/01
                 </p>
                 <div className="space-y-2 text-gray-700 text-sm md:text-base">
-                  <p>Novos alunos: <strong className="text-aurea-blue">30% de desconto</strong></p>
+                  <p>Novos alunos: <strong className="text-aurea-blue">22% de desconto</strong></p>
                 </div>
               </div>
             </div>

@@ -1,0 +1,33 @@
+# robots.txt - Curso Áurea Turma MED 360
+
+# Permitir todos os bots de busca tradicionais
+User-agent: *
+Allow: /
+
+# Permitir bots de IA especificamente
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap
+Sitemap: https://turma-med-360-aurea-2026.vercel.app/sitemap.xml
