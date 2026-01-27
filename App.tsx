@@ -6,10 +6,12 @@ import { Methodology } from './components/sections/Methodology';
 import { Pricing } from './components/sections/Pricing';
 import { Reservation } from './components/sections/Reservation';
 import { Contact } from './components/sections/Contact';
+import { EnemModal } from './components/ui/EnemModal';
 
 function App() {
   return (
     <div className="min-h-screen bg-white font-sans text-aurea-dark selection:bg-aurea-orange selection:text-white">
+      <EnemModal />
       <main>
         <Hero />
         <About />
@@ -22,23 +24,23 @@ function App() {
 
       <footer className="bg-aurea-dark text-white py-16">
         <div className="container mx-auto max-w-6xl px-6 flex flex-col items-center justify-center text-center">
-            {/* Simple logo text representation based on PDF style */}
-            <div className="mb-6">
-                <span className="font-brand font-bold text-4xl tracking-tight">áurea</span>
-            </div>
-            
-            <p className="text-2xl font-display uppercase tracking-wider mb-2">
-                2026
-            </p>
-            <p className="text-gray-400 font-brand font-light">
-                Áurea: O melhor dos dois mundos
-            </p>
-            
-            <div className="w-full h-px bg-white/10 my-12"></div>
-            
-            <p className="text-xs text-gray-600">
-                &copy; 2026 Curso Áurea. Todos os direitos reservados.
-            </p>
+          {/* Simple logo text representation based on PDF style */}
+          <div className="mb-6">
+            <span className="font-brand font-bold text-4xl tracking-tight">áurea</span>
+          </div>
+
+          <p className="text-2xl font-display uppercase tracking-wider mb-2">
+            2026
+          </p>
+          <p className="text-gray-400 font-brand font-light">
+            Áurea: O melhor dos dois mundos
+          </p>
+
+          <div className="w-full h-px bg-white/10 my-12"></div>
+
+          <p className="text-xs text-gray-600">
+            &copy; 2026 Curso Áurea. Todos os direitos reservados.
+          </p>
         </div>
       </footer>
     </div>

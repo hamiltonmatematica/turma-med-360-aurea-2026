@@ -22,17 +22,14 @@ export const Reservation: React.FC = () => {
             </h2>
 
             <p className="text-xl md:text-2xl text-gray-300 mb-10 max-w-2xl mx-auto font-light">
-              Reserve sua vaga até 20/01 e garanta descontos especiais.
+              Reserve sua vaga agora e comece sua jornada rumo à aprovação em Medicina.
             </p>
-            <ul className="text-gray-300 text-xl mb-10 space-y-1">
-              <li>22% de desconto até 20/01 para alunos novos</li>
-            </ul>
             <Button
               href="https://delicategiantpanda-n8n.cloudfy.live/form/71f89cb2-cc61-41b7-a0a8-2459cc14e4ca"
               variant="white"
               className="min-w-[280px]"
             >
-              Reservar agora com desconto
+              Reservar minha vaga
             </Button>
           </div>
         </motion.div>

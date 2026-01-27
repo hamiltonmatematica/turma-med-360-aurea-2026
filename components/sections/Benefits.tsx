@@ -9,7 +9,6 @@ const benefits = [
     "Bolsa de 100% nos cursos de redação e matemática",
     "Organização semanal de demandas",
     "Simulados completos (Enem, Unimontes e Ufvjm)",
-    "22% de desconto até 20/01 (alunos novos)",
     "I.A. Trio Perfeito",
     "Mentorias exclusivas",
     "Sem taxa de material",
